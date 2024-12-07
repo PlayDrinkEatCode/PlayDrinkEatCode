@@ -20,4 +20,4 @@ So I chose this interesting and happy name.
 
 ## 🚀 Languages and Tools I Use
 
-<img src="https://skillicons.dev/icons?i=html,css,md,svg,javascript,typescript,php,nodejs,c,cpp,java,py,vue,electron,git,npm,pnpm,webpack,vite,pinia,powershell,vscode,visualstudio,idea,pycharm,mysql,androidstudio,github,cloudflare,windows&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,md,svg,javascript,typescript,php,nodejs,c,cpp,java,py,swift,sass,tailwind,vue,react,express,electron,git,npm,yarn,pnpm,rollupjs,webpack,vite,pinia,powershell,vscode,visualstudio,idea,pycharm,phpstorm,webstorm,mysql,androidstudio,github,gitlab,gmail,cloudflare,postman,windows,linux,debian,ubuntu&theme=light" />
